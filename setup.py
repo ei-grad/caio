@@ -53,6 +53,7 @@ setup(
             "py.typed",
         ],
     },
+    url="https://github.com/mosquito/caio",
     project_urls={
         "Documentation": "https://github.com/mosquito/caio/",
         "Source": "https://github.com/mosquito/caio",
